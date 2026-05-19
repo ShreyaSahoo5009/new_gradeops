@@ -51,7 +51,7 @@ gradeops/
 ### Clone the repository
 ```bash
 git clone https://github.com/ShreyaSahoo5009/new_gradeops.git
-cd gradeops
+cd new_gradeops
 ```
 
 ### Backend Setup
