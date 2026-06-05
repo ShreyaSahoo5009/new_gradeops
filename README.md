@@ -8,10 +8,10 @@ It generates automatic scoring, structured feedback, and stores results for anal
 
 ## Project Structure
 gradeops/
-│
-├── ai-grading-platform/ # Frontend (React / Next.js)
-├── backend/ # FastAPI Backend
-├── .env # Environment variables (NOT pushed to GitHub)
+
+- ai-grading-platform/ # Frontend (React / Next.js)
+- backend/ # FastAPI Backend
+- .env # Environment variables (NOT pushed to GitHub)
 
 
 ---
